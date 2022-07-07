@@ -1,0 +1,4 @@
+Este es nuevo archivo para practicar git y github 
+
+
+creado el 07/07/2022
